@@ -1,7 +1,7 @@
 - � My names Yahya Abdulgani, a first generation college student currently attending YearUp specifically in the softwware development and testing track
 - 👀 I’m interested in finding new ways to incorporate business and tech
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning html/css and javascript
+- 💞️ I’m looking to collaborate on anything that will benefit my skillset
 - 📫 How to reach me ...
 
 <!---
